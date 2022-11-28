@@ -5,7 +5,7 @@ Opencv_VSCODE環境設定
 
 + 若先前有裝過MinGW，先打開CMD輸入看看自己的MinGW版本是不是POSIX，若為win32刪掉重下載
 
-![markdown-viewer](1.png)
+![markdown-viewer](image/1.png)
 
 ```
 網址 https://sourceforge.net/projects/mingw-w64/files/#mingw-w64-gcc-8-1-0
